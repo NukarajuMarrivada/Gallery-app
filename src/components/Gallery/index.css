@@ -1,0 +1,20 @@
+.app-con {
+  display: flex;
+  justify-content: center;
+  background-color: white;
+  padding: 10px;
+}
+.image {
+  height: 500px;
+}
+.list-con {
+  display: flex;
+  flex-direction: row;
+}
+.list-image {
+  padding: 5px;
+}
+.btn {
+  background-color: transparent;
+  border: none;
+}
